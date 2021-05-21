@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  height: 3rem;
+}
+
+.image {
+  border-radius: 10rem;
+  height: 7rem;
+}
+
+.user {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  min-width: 30rem;
+  min-height: 40rem;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  min-height: 30rem;
+}
+
+.photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  min-height: 28rem;
+}
+
+.info {
+  position: relative;
+  top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  min-height: 28rem;
+}
+
+.age-date {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}

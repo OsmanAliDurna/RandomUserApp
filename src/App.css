@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: white;
+}
+
+.App {
+  height: 96vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.random {
+  width: 10rem;
+  height: 2rem;
+  background-color: rgb(0, 102, 255);
+  color: white;
+}
+
+.random:hover {
+  background-color: bisque;
+  color: black;
+}
