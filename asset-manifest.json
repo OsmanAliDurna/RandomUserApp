@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/random-user-app/static/css/main.7d5a65a0.chunk.css",
+    "main.js": "/random-user-app/static/js/main.549e281c.chunk.js",
+    "main.js.map": "/random-user-app/static/js/main.549e281c.chunk.js.map",
+    "runtime-main.js": "/random-user-app/static/js/runtime-main.e4bde456.js",
+    "runtime-main.js.map": "/random-user-app/static/js/runtime-main.e4bde456.js.map",
+    "static/js/2.dd97d4a2.chunk.js": "/random-user-app/static/js/2.dd97d4a2.chunk.js",
+    "static/js/2.dd97d4a2.chunk.js.map": "/random-user-app/static/js/2.dd97d4a2.chunk.js.map",
+    "static/js/3.1c779a0e.chunk.js": "/random-user-app/static/js/3.1c779a0e.chunk.js",
+    "static/js/3.1c779a0e.chunk.js.map": "/random-user-app/static/js/3.1c779a0e.chunk.js.map",
+    "index.html": "/random-user-app/index.html",
+    "static/css/main.7d5a65a0.chunk.css.map": "/random-user-app/static/css/main.7d5a65a0.chunk.css.map",
+    "static/js/2.dd97d4a2.chunk.js.LICENSE.txt": "/random-user-app/static/js/2.dd97d4a2.chunk.js.LICENSE.txt",
+    "static/media/email.e1f03bb9.svg": "/random-user-app/static/media/email.e1f03bb9.svg",
+    "static/media/location.0b7d98ab.svg": "/random-user-app/static/media/location.0b7d98ab.svg",
+    "static/media/phone.d017e1ae.svg": "/random-user-app/static/media/phone.d017e1ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4bde456.js",
+    "static/js/2.dd97d4a2.chunk.js",
+    "static/css/main.7d5a65a0.chunk.css",
+    "static/js/main.549e281c.chunk.js"
+  ]
+}
